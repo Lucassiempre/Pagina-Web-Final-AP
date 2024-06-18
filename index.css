@@ -30,7 +30,7 @@ padding-bottom: 10px;
 padding-top: 7px;
 }
 .main-navigation.style-1{
-    background-image: url(../ecommerce-website/IMG/Main-Foot/goku.jpg);
+    background-image: url(./ecommerce-website/IMG/Main-Foot/goku.jpg);
     background-size: cover;
 }
 .main-navigation.style-1{
@@ -63,7 +63,7 @@ img.img-responsive{
     vertical-align: middle;
 }
 .site-header .c-sub-header-nav.with-border{
-    background: url(../ecommerce-website/IMG/Main-Foot/fondo.jpg);
+    background: url(./ecommerce-website/IMG/Main-Foot/fondo.jpg);
     background-size: cover;
 }
 .site-header .c-sub-header-nav.with-border{
@@ -335,7 +335,7 @@ button {
     padding-top: 7px;
     }
     .main-navigation.style-1{
-        background-image: url(../ecommerce-website/IMG/Main-Foot/goku.jpg);
+        background-image: url(./ecommerce-website/IMG/Main-Foot/goku.jpg);
         background-size: cover;
     }
     .main-navigation.style-1{
@@ -368,7 +368,7 @@ button {
         vertical-align: middle;
     }
     .site-header .c-sub-header-nav.with-border{
-        background: url(../ecommerce-website/IMG/Main-Foot/fondo.jpg);
+        background: url(./ecommerce-website/IMG/Main-Foot/fondo.jpg);
         background-size: cover;
     }
     .site-header .c-sub-header-nav.with-border{
